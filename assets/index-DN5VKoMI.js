@@ -1,1 +1,0 @@
-import{r as s,aX as u}from"./app-87RjO40g.js";import{h as e}from"./AuthenticatedLayout-xluo4oBa.js";var f=u.useId||(()=>{}),c=0;function d(t){const[a,r]=s.useState(f());return e(()=>{t||r(o=>o??String(c++))},[t]),t||(a?`radix-${a}`:"")}export{d as u};
