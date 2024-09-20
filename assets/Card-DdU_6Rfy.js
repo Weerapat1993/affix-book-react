@@ -1,0 +1,1 @@
+import{j as o}from"./app-c0J2B4Ql.js";const d=s=>{const{children:r,className:a}=s;return o.jsx("div",{className:`p-4 sm:p-8 bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg mb-8 ${a}`,children:r})},m=d;export{m as C};
