@@ -1,0 +1,1 @@
+import{j as s}from"./app-wQAUOKhq.js";import{I as a}from"./InputLabel-BwTOwdMK.js";import{T as e,I as o}from"./TextInput-CcMnUhp9.js";const x=({label:m,errorMessage:r,...t})=>s.jsxs("div",{children:[s.jsx(a,{htmlFor:t.name,value:m}),s.jsx(e,{className:"mt-1 block w-full",...t}),s.jsx(o,{className:"mt-2",message:r})]});export{x as F};
